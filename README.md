@@ -74,5 +74,5 @@ Need to update the hover effect on the dice button.
 
 ## Author
 
-- Website - [@Moniratna](https://github.com/moniratna)
+- Github - [@Moniratna](https://github.com/moniratna)
 - Frontend Mentor - [@Moniratna](https://www.frontendmentor.io/profile/moniratna)
