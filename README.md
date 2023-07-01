@@ -66,8 +66,6 @@ const { isLoading, isError, data, error, refetch } = useQuery(
 
 ### Continued development
 
-Need to update the hover effect on the dice button.
-
 ### Useful resources
 
 - [React-Query](https://tanstack.com/query/v3/docs/react/overview) - This helped me to learn react-query. I will use it going forward.
