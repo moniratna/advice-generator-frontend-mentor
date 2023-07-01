@@ -3,7 +3,7 @@ import divider from "../assets/pattern-divider-desktop.svg";
 import DiceButton from "./DiceButton";
 import { useQuery } from "react-query";
 import getQuotes from "../api/getQuotes";
-import Spinner from "./spinner";
+import Spinner from "./Spinner";
 
 export default function Card() {
 	const { isLoading, isError, data, error, refetch } = useQuery(
