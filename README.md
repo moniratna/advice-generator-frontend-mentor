@@ -35,16 +35,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/moniratna/advice-generator-frontend-mentor)
-- Live Site URL: [Add live site URL here](https://advice-generator-frontend-mentor-7ida.vercel.app/)
+- Solution URL: [solution URL](https://github.com/moniratna/advice-generator-frontend-mentor)
+- Live Site URL: [live site URL](https://advice-generator-frontend-mentor-7ida.vercel.app/)
 
 ## My process
-
-Step 1: Time Estimation.
-Step 2: Code structuring.
-Step 3: Implemented all the necessary components.
-Step 4: Implemented responsive designs.
-Step 5: Added React query for data fetching.
 
 ### Built with
 
@@ -76,9 +70,9 @@ Need to update the hover effect on the dice button.
 
 ### Useful resources
 
-- [Example resource 1](https://tanstack.com/query/v3/docs/react/overview) - This helped me to learn react-query. I will use it going forward.
+- [React-Query](https://tanstack.com/query/v3/docs/react/overview) - This helped me to learn react-query. I will use it going forward.
 
 ## Author
 
-- Website - [Add your name here](Moniratna)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/moniratna)
+- Website - [@Moniratna](https://github.com/moniratna)
+- Frontend Mentor - [@Moniratna](https://www.frontendmentor.io/profile/moniratna)
