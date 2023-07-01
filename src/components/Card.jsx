@@ -27,7 +27,7 @@ export default function Card() {
 				</p>
 			</a>
 			<div className="pt-2">
-				<img src={divider} />
+				<img src={divider} alt="divider" />
 			</div>
 
 			<div class="flex items-center justify-center pt-5">
